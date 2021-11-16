@@ -3,7 +3,8 @@
 A simple Lua script for Wireshark to dissect WTP packets in 
 UDP datagrams.
 
-WTP is [defined in an assignment](https://github.com/mosharaf/eecs489/tree/f21/Assignments/Assignment-3)
+WTP is a reliable transport protocol built on top of UDP.
+It is [defined in an assignment](https://github.com/mosharaf/eecs489/tree/f21/Assignments/Assignment-3)
 for the course [EECS 489: Computer Networks](https://github.com/mosharaf/eecs489) 
 at the University of Michigan, Ann Arbor.
 
